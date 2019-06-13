@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'en-US' }}">
-  <head>
+<head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,45 +10,44 @@
     <meta name="application-name" content="{{ site.title | default: site.github.repository_name }}">
     <meta name="theme-color" content="#81C9A3">
 
-    <link rel="icon" type="image/png" href="logo-16.png" sizes="16x16">
-    <link rel="icon" type="image/png" href="logo-32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="logo-64.png" sizes="64x64">
-    <link rel="icon" type="image/png" href="logo-128.png" sizes="128x128">
-    <link rel="icon" type="image/png" href="logo-256.png" sizes="256x256">
-    <link rel="icon" type="image/png" href="logo-512.png" sizes="512x512">
+    <link rel="icon" type="image/svg+xml" href="assets/img/voiio-icon.svg" sizes="any">
+    <link rel="icon" type="image/png" href="assets/img/voiio-icon-16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="assets/img/voiio-icon-32.png" sizes="32x32">
 
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
+</head>
+<body>
+<div class="wrapper">
+    <header>
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        <img src="{{site.logo | relative_url}}" alt="Logo"/>
+        {% else %}
+        <h1><a href="{{ '/' | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         {% endif %}
-
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% include toc.html html=content %}
-      </header>
-      <section>
+    </header>
+    <section>
 
-      {{ content }}
+        {{ content }}
 
-      </section>
-      <footer>
+    </section>
+    <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-        <p><small>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></small></p>
-      </footer>
-    </div>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-  </body>
+        <p>
+            <small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a>
+            </small>
+        </p>
+    </footer>
+</div>
+<script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+</body>
 </html>
