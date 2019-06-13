@@ -32,6 +32,9 @@ Your application should include:
 -   profiles (GitHub, Stack Overflow, LinkedIn)
 -   Don’t be shy! It doesn’t matter if you don’t have everything in place.
     Just submit your application incomplete. You can always send us more later.
+    
+All applications should be submitted via email at
+[career@voiio.de](mailto:career@voiio.de).
 
 #### Introduction call
 
