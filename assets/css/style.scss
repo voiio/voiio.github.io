@@ -28,9 +28,6 @@ header li:last-child a {
 }
 
 header ul a {
-    line-height: initial;
-    font-size: initial;
-    color: initial;
     display: initial;
     text-align: initial;
     padding-top: initial;
@@ -43,5 +40,6 @@ header ul a:hover, header ul a:focus {
 }
 
 header ul a:active {
-    background-color: initial
+    background-color: initial;
+    color: black;
 }
