@@ -2,6 +2,46 @@
 ---
 
 @import "{{ site.theme }}";
-header ul li {
-  background-color: transparent;
+header ul {
+    list-style: none;
+    height: initial;
+    padding: initial;
+    background: initial;
+    border-radius: initial;
+    border: initial;
+    width: initial
+}
+
+header li {
+    width: initial;
+    float: initial;
+    border-right: initial;
+    height: initial
+}
+
+header li:first-child a {
+    border-radius: initial
+}
+
+header li:last-child a {
+    border-radius: initial
+}
+
+header ul a {
+    line-height: initial;
+    font-size: initial;
+    color: initial;
+    display: initial;
+    text-align: initial;
+    padding-top: initial;
+    height: initial
+}
+
+header ul a:hover, header ul a:focus {
+    color: initial;
+    font-weight: initial
+}
+
+header ul a:active {
+    background-color: initial
 }
