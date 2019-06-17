@@ -29,6 +29,13 @@ We take great pride in providing a workspace and atmosphere that is productive a
 for everyone. Therefore, the following [code of conduct](code_of_conduct.md) applies to
 all our public repositories, office interactions and social events.   
 
+#### Open Source
+
+Almost our entire stack is based upon open source tools and libraries and all platforms
+we build upon have a strong relationship with open source and free software.
+
+Please check out [our open source policy](open_source.md) for more information.
+
 #### Our Stack
 
 Good chefs keep their knifes sharp. We believe the same is true for software engineers,
