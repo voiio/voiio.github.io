@@ -19,8 +19,8 @@ header {
             height: initial;
 
             a:hover, &:focus {
-                color: initial;
-                font-weight: initial
+                color: #069;
+                font-weight: normal;
             }
 
             &:active {
@@ -53,4 +53,9 @@ header {
         text-align: center;
         margin: 25px 0;
     }
+}
+
+a:hover {
+    font-weight: initial;
+    text-decoration: underline;
 }
