@@ -30,8 +30,8 @@ header {
         }
     }
 
-    li {
-        width: initial;
+    li, li+li+li {
+        width: 100%;
         float: initial;
         border-right: initial;
         height: initial;
