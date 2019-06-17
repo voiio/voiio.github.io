@@ -31,3 +31,14 @@ You can find our full tech stack on [stackshare.io/voiio](https://stackshare.io/
 
 We use [dependabot](https://dependabot.com/) to keep all our Python and NodeJS
 dependencies up to date on a daily base.
+
+### devOps and QA
+
+We do not hire dedicated devOps and QA engineers. We do not hire devOps engineers
+because we are not in the business of running data centers but improving family's lives.
+We use Heroku and AWS to worry about most devOps related problems and have a full CD
+pipeline setup for our applications.
+
+We believe that writing automated tests for your own code helps you to deliver better
+results and become a better engineer. Therefor, we do not have dedicated QA engineers.
+For us writing tests is part of writing features.
