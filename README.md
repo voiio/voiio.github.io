@@ -23,6 +23,12 @@ You can find more information about our application process in our
 
 ### Philosophy
 
+#### Code of Conduct
+
+We take great pride in providing a workspace and atmosphere that is productive and safe
+for everyone. Therefore, the following [code of conduct](code_of_conduct.md) applies to
+all our public repositories, office interactions and social events.   
+
 #### Our Stack
 
 Good chefs keep their knifes sharp. We believe the same is true for software engineers,
