@@ -12,28 +12,28 @@ header {
         border: initial;
         width: initial;
 
-        a {
-            display: initial;
-            text-align: initial;
-            padding-top: initial;
-            height: initial;
-
-            a:hover, &:focus {
-                color: #069;
-                font-weight: normal;
-            }
-
-            &:active {
-                background-color: initial;
-                color: black;
-            }
-        }
-
         li, li + li + li {
             width: 100%;
             float: initial;
             border-right: initial;
             height: initial;
+
+            a {
+                display: initial;
+                text-align: initial;
+                padding-top: initial;
+                height: initial;
+
+                a:hover, &:focus {
+                    color: #069;
+                    font-weight: normal;
+                }
+
+                &:active {
+                    background-color: initial;
+                    color: black;
+                }
+            }
 
             &:first-child a {
                 border-radius: initial;
