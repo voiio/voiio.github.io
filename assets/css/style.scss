@@ -2,44 +2,50 @@
 ---
 
 @import "{{ site.theme }}";
-header ul {
-    list-style: none;
-    height: initial;
-    padding: initial;
-    background: initial;
-    border-radius: initial;
-    border: initial;
-    width: initial
-}
+header {
+    ul {
+        list-style: none;
+        height: initial;
+        padding: initial;
+        background: initial;
+        border-radius: initial;
+        border: initial;
+        width: initial;
 
-header li {
-    width: initial;
-    float: initial;
-    border-right: initial;
-    height: initial
-}
+        a {
+            display: initial;
+            text-align: initial;
+            padding-top: initial;
+            height: initial;
 
-header li:first-child a {
-    border-radius: initial
-}
+            a:hover, &:focus {
+                color: initial;
+                font-weight: initial
+            }
 
-header li:last-child a {
-    border-radius: initial
-}
+            &:active {
+                background-color: initial;
+                color: black;
+            }
+        }
+    }
 
-header ul a {
-    display: initial;
-    text-align: initial;
-    padding-top: initial;
-    height: initial
-}
+    li {
+        width: initial;
+        float: initial;
+        border-right: initial;
+        height: initial;
 
-header ul a:hover, header ul a:focus {
-    color: initial;
-    font-weight: initial
-}
+        &:first-child a {
+            border-radius: initial;
+        }
 
-header ul a:active {
-    background-color: initial;
-    color: black;
+        &:last-child a {
+            border-radius: initial;
+        }
+
+        ul li a {
+            padding-left: 10px;
+        }
+    }
 }
