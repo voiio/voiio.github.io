@@ -21,7 +21,9 @@ of five simple steps:
 You can find more information about our application process in our
 [application guide](apply.md).
 
-### Our Stack
+### Philosophy
+
+#### Our Stack
 
 Good chefs keep their knifes sharp. We believe the same is true for software engineers,
 which is why we always aim to use the best tools available and don't mind investing into
@@ -32,7 +34,7 @@ You can find our full tech stack on [stackshare.io/voiio](https://stackshare.io/
 We use [dependabot](https://dependabot.com/) to keep all our Python and NodeJS
 dependencies up to date on a daily base.
 
-### devOps and QA
+#### devOps and QA
 
 We do not hire dedicated devOps and QA engineers. We do not hire devOps engineers
 because we are not in the business of running data centers but improving family's lives.
