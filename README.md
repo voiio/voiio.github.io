@@ -20,3 +20,14 @@ of five simple steps:
 
 You can find more information about our application process in our
 [application guide](apply.md).
+
+### Our Stack
+
+Good chefs keep their knifes sharp. We believe the same is true for software engineers,
+which is why we always aim to use the best tools available and don't mind investing into
+our setup.
+
+You can find our full tech stack on [stackshare.io/voiio](https://stackshare.io/voiio).
+
+We use [dependabot](https://dependabot.com/) to keep all our Python and NodeJS
+dependencies up to date on a daily base.
