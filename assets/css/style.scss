@@ -28,24 +28,24 @@ header {
                 color: black;
             }
         }
-    }
 
-    li, li+li+li {
-        width: 100%;
-        float: initial;
-        border-right: initial;
-        height: initial;
+        li, li + li + li {
+            width: 100%;
+            float: initial;
+            border-right: initial;
+            height: initial;
 
-        &:first-child a {
-            border-radius: initial;
-        }
+            &:first-child a {
+                border-radius: initial;
+            }
 
-        &:last-child a {
-            border-radius: initial;
-        }
+            &:last-child a {
+                border-radius: initial;
+            }
 
-        ul li ul li a {
-            padding-left: 10px;
+            ul li ul li a {
+                padding-left: 10px;
+            }
         }
     }
 }
