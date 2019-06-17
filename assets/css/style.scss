@@ -6,6 +6,7 @@
 
 body {
     font-family: 'Source Sans Pro', sans-serif;
+    font-size: initial;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -39,6 +40,7 @@ header {
 
             a {
                 display: initial;
+                font-size: initial;
                 text-align: initial;
                 padding-top: initial;
                 height: initial;
@@ -77,4 +79,8 @@ header {
 a:hover {
     font-weight: initial;
     text-decoration: underline;
+}
+
+small {
+    font-size: smaller;
 }
