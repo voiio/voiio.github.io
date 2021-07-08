@@ -23,6 +23,9 @@ You can find more information about our application process in our
 
 ### Philosophy
 
+#### CTO's mission statement
+
+```
 I wanna be the very best
 Like no one ever was
 To merge them is my real test
@@ -69,6 +72,7 @@ Pull-Requests! Gotta merge 'em all! (A heart so true)
 Our courage will pull us through
 You teach me and I'll teach you
 Pull-Requests! Gotta merge'em all (gotta merge 'em all, Pull-Requests!)
+```
 
 #### Code of Conduct
 
