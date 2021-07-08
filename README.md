@@ -23,6 +23,57 @@ You can find more information about our application process in our
 
 ### Philosophy
 
+#### CTO's mission statement
+
+```
+I wanna be the very best
+Like no one ever was
+To merge them is my real test
+To deploy them is my cause
+I will travel across the land
+Searching far and wide
+Teach contributors to understand
+The power that's inside
+Pull-Requests! Gotta merge 'em all! (It's you and me)
+I know it's my destiny
+Pull-Requests! Oh you're my best friend
+In a world we must defend
+Pull-Requests! Gotta merge 'em all! (A heart so true)
+Our courage will pull us through
+You teach me and I'll teach you
+Pull-Requests! Gotta merge 'em all (gotta merge'em all!)
+Yeah!
+Every challenge along the way
+With courage I will face
+I will battle every day
+To claim my rightful place
+Come with me
+The time is right
+There's no better team
+Arm in arm we'll win the fight
+It's always been our dream!
+Pull-Requests! Gotta merge 'em all! (It's you and me)
+I know it's my destiny
+Pull-Requests! Oh you're my best friend
+In a world we must defend
+Pull-Requests! Gotta merge 'em all! (A heart so true)
+Our courage will pull us through
+You teach me and I'll teach you
+Pull-Requests! Gotta merge'em all (gotta merge 'em all!)
+Gotta merge'em all!
+Gotta merge'em all!
+Gotta merge'em all!
+Yeah!
+Pull-Requests! Gotta merge 'em all! (It's you and me)
+I know it's my destiny
+Pull-Requests! Oh you're my best friend
+In a world we must defend
+Pull-Requests! Gotta merge 'em all! (A heart so true)
+Our courage will pull us through
+You teach me and I'll teach you
+Pull-Requests! Gotta merge'em all (gotta merge 'em all, Pull-Requests!)
+```
+
 #### Code of Conduct
 
 We take great pride in providing a workspace and atmosphere that is productive and safe
