@@ -23,6 +23,8 @@ You can find more information about our application process in our
 
 ### Philosophy
 
+<!--//
+
 #### CTO's mission statement
 
 ```
@@ -73,6 +75,8 @@ Our courage will pull us through
 You teach me and I'll teach you
 Pull-Requests! Gotta merge'em all (gotta merge 'em all, Pull-Requests!)
 ```
+
+//-->
 
 #### Code of Conduct
 
