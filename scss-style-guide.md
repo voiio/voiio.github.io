@@ -2,7 +2,7 @@
 
 We use BEM with unlimited component nesting.
 
-# Glossar
+## Glossar
 
 ### Block `.button`
 
@@ -20,6 +20,27 @@ The ordering of the elements should be related to the top to bottom occurances o
 2. `@include`
 3. Elements
 4. Modifiers
+
+### Example
+
+```
+.block {
+	// first extend
+	@extend .box;
+	// second include
+	@include arrow-mixin;
+	// third elements
+	&__child {
+	
+	}
+	// forth modifiers
+	&--blue {
+	
+	}
+}
+```
+
+
 
 # Rule one
 
