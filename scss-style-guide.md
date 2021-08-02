@@ -12,7 +12,9 @@ We use BEM with unlimited component nesting.
 
 
 
-## Ordering of styles in scss files
+# Rule zero
+
+Ordering of styles in scss files.
 
 The ordering of the elements should be related to the top to bottom occurances of the class in html.
 
