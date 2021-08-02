@@ -12,7 +12,7 @@ We use BEM with unlimited component nesting.
 
 
 
-# Rule zero
+# Rule zero - style ordering
 
 Ordering of styles in scss files.
 
@@ -44,35 +44,46 @@ The ordering of the elements should be related to the top to bottom occurances o
 
 
 
-# Rule one
+# Rule one - reusable components
 
-For each HTML-Element there should be at maximum one block-element.
+Add new components to component library.
 
 ## Why
 
-- We want to prevent that we end up with a lot of classe in the html.
+- to have a reusable component library
 
 ## Don't
 
 ```html
-<div class="box grid__space__y"></div>
+<div class="page__component__modification"></div>
 ```
+
+```scss
+.page__component__modification {
+	@extend .component;
+	
+	// modification styles
+}
+```
+
+
 
 ## Do
 
 ```html
-<div class="my_custom_class"></div>
+<div class="component component--red"></div>
 ```
 
-
-
 ```scss
-.my_custom_class {
-	@extend .box, .grid__space__y;
+.component {
+  // Add a modifier if different version is needed
+  &--red {
+    
+  }
 }
 ```
 
-# Rule two
+# Rule two - use css classes
 
 Only modify elements by directly assigning a class.
 
@@ -85,19 +96,32 @@ Only modify elements by directly assigning a class.
 ## Don't 
 
 ```scss
-.button {
+.component {
 	h1 {
-		font-size: 120%;
+		margin-bottom: 1rem;
 	}
 }
+```
+
+```html
+<div class="component">
+	<h1>Some Title</h1>
+</div>
 ```
 
 ## Do
 
 ```scss
-.button {
+.component {
 	&__title {
 		font-size: 120%;
 	}
 }
 ```
+
+```html
+<div class="component">
+  <h1 class="component__title">Some Title</h1>
+</div>
+```
+
