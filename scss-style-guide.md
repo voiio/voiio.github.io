@@ -46,6 +46,11 @@ The ordering of the elements should be related to the top to bottom occurances o
 
 For each HTML-Element there should be at maximum one block-element.
 
+## Why
+
+- We want to prevent that we end up with a lot of classe in the html.
+- Also we want to be able to easily identify where a style is coming from.
+
 ## Don't
 
 ```html
@@ -58,20 +63,23 @@ For each HTML-Element there should be at maximum one block-element.
 <div class="my_custom_class"></div>
 ```
 
+
+
 ```scss
 .my_custom_class {
 	@extend .box, .grid__space__y;
 }
 ```
 
-## Why
-
-- We want to prevent that we end up with a lot of classe in the html.
-- Also we want to be able to easily identify where a style is coming from.
-
 # Rule two
 
 Only modify elements by directly assigning a class.
+
+## Why
+
+- Make styling explicit. 
+- Keep a low css specifity. 
+- Prevent indirect styling that would not be visible by the class name (less obvious and clean).
 
 ## Don't 
 
@@ -92,9 +100,3 @@ Only modify elements by directly assigning a class.
 	}
 }
 ```
-
-## Why
-
-- Make styling explicit. 
-- Keep a low css specifity. 
-- Prevent indirect styling that would not be visible by the class name (less obvious and clean).
