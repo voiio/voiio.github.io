@@ -49,7 +49,6 @@ For each HTML-Element there should be at maximum one block-element.
 ## Why
 
 - We want to prevent that we end up with a lot of classe in the html.
-- Also we want to be able to easily identify where a style is coming from.
 
 ## Don't
 
