@@ -18,8 +18,8 @@ The ordering of the elements should be related to the top to bottom occurances o
 
 1. `@extend`
 2. `@include`
-3. Elements
-4. Modifiers
+3. `Modifiers`
+4. `Elements`
 
 ### Example
 
@@ -29,12 +29,12 @@ The ordering of the elements should be related to the top to bottom occurances o
 	@extend .box;
 	// second include
 	@include arrow-mixin;
-	// third elements
-	&__child {
+	// third modifiers
+	&--blue {
 	
 	}
-	// forth modifiers
-	&--blue {
+	// forth elements
+	&__child {
 	
 	}
 }
