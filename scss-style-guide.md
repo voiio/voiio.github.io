@@ -25,20 +25,16 @@ The ordering of the elements should be related to the top to bottom occurances o
 
 ### Example
 
-```
+```scss
 .block {
-	// first extend
-	@extend .box;
-	// second include
-	@include arrow-mixin;
-	// third modifiers
-	&--blue {
-	
-	}
-	// forth elements
-	&__child {
-	
-	}
+  // first extend
+  @extend .box;
+  // second include
+  @include arrow-mixin;
+  // third modifiers
+  &--blue {}
+  // forth elements
+  &__child {}
 }
 ```
 
@@ -60,9 +56,9 @@ Add new components to component library.
 
 ```scss
 .page__component__modification {
-	@extend .component;
-	
-	// modification styles
+  @extend .component;
+
+  // modification styles
 }
 ```
 
@@ -78,7 +74,7 @@ Add new components to component library.
 .component {
   // Add a modifier if different version is needed
   &--red {
-    
+
   }
 }
 ```
@@ -93,19 +89,19 @@ Only modify elements by directly assigning a class.
 - Keep CSS specificity low
 - Prevent indirect styling that would not be visible by the class name (less obvious and clean)
 
-## Don't 
+## Don't
 
 ```scss
 .component {
-	h1 {
-		margin-bottom: 1rem;
-	}
+  h1 {
+    margin-bottom: 1rem;
+  }
 }
 ```
 
 ```html
 <div class="component">
-	<h1>Some Title</h1>
+  <h1>Some Title</h1>
 </div>
 ```
 
@@ -113,9 +109,9 @@ Only modify elements by directly assigning a class.
 
 ```scss
 .component {
-	&__title {
-		font-size: 120%;
-	}
+  &__title {
+    font-size: 120%;
+  }
 }
 ```
 
