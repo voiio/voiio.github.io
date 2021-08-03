@@ -83,7 +83,7 @@ Add new components to component library.
 }
 ```
 
-# Rule two - use css classes
+# Rule two - use CSS classes
 
 Only modify elements by directly assigning a class.
 
@@ -124,4 +124,3 @@ Only modify elements by directly assigning a class.
   <h1 class="component__title">Some Title</h1>
 </div>
 ```
-
