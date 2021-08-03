@@ -91,7 +91,7 @@ Only modify elements by directly assigning a class.
 
 - Make styling explicit
 - Keep CSS specificity low
-- Prevent indirect styling that would not be visible by the class name (less obvious and clean).
+- Prevent indirect styling that would not be visible by the class name (less obvious and clean)
 
 ## Don't 
 
