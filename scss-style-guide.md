@@ -120,3 +120,35 @@ Only modify elements by directly assigning a class.
   <h1 class="component__title">Some Title</h1>
 </div>
 ```
+
+# Rule three - use style to a certain degree
+
+It's possible to use `style` attribute on HTML-Tags.
+But usually it should only be one CSS-Style.
+
+## Why
+
+- prevent creating of css classes with only one attribute
+- make edge cases more visible
+
+## Don't
+
+```scss
+.component-text-color {
+  color: var(--brand-color);
+}
+```
+
+```html
+<h1 class="component-text-color">Some Title</h1>
+```
+
+## Do
+
+```scss
+// no css
+```
+
+```html
+<h1 style="color: var(--brand-color);">Some Title</h1>
+```
