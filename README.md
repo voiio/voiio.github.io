@@ -1,7 +1,8 @@
 ## Welcome
 
-voiio is closing the gap between having to manage your job and your family.
-We are a German based B2B family service provider.
+voiio is closing the gap between having to manage your job and private life.
+We are a German based B2B employee service provider, always creating new services
+that have a meaningful impact on peoples every day lifes.
 
 This document contains all information related to our software engineering here at
 voiio. You will find documentation on our hiring processes and a glimpse into our day to
