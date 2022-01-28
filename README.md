@@ -10,8 +10,8 @@ day lives.
 
 ### Join Us!
 
-We are excited that you are interested in joining our team. Our hiring process consists
-of five simple steps:
+We are excited that you are interested in joining [our team](https://github.com/orgs/voiio/people).
+Our hiring process consists of five simple steps:
 
 1.  your application
 2.  a quick phone call
