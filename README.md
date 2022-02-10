@@ -8,7 +8,7 @@ This document contains all information related to our software engineering here 
 voiio. You will find documentation on our hiring processes and a glimpse into our day to
 day lives.
 
-### Join Us!
+### Join Us! (remote/Berlin/Hamburg)
 
 We are excited that you are interested in joining [our team](https://github.com/orgs/voiio/people).
 Our hiring process consists of five simple steps:
