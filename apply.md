@@ -2,9 +2,9 @@
 
 ![strength and weaknesses](https://imgs.xkcd.com/comics/strengths_and_weaknesses.png)
 
-_comic by [xkcd](https://xkcd.com/1545/)_ 
+_comic by [xkcd](https://xkcd.com/1545/)_
 
-We hire for potential not experience. If you have a bright mind and fit into our team,
+We hire for potential, not experience. If you have a bright mind and fit into our team,
 we can teach you everything you need to make an impact.
 
 What is a good team fit? You should take your work serious and not yourself.
@@ -32,7 +32,7 @@ Your application should include:
 -   profiles (GitHub, Stack Overflow, LinkedIn)
 -   Don’t be shy! It doesn’t matter if you don’t have everything in place.
     Just submit your application incomplete. You can always send us more later.
-    
+
 All applications should be submitted via email at
 [career@voiio.de](mailto:career@voiio.de).
 
@@ -43,7 +43,7 @@ your and our first chance to get to know each other. It is a casual call. You do
 to prepare anything. We will be explaining to you a bit more about our company and might
 be asking for some missing information to complete your application.
 
-After the call we will reassess and take a look at the code you have provided or send
+After the call, we will reassess and take a look at the code you have provided or send
 you a coding challenge.
 
 #### Coding challenge
@@ -63,7 +63,7 @@ not that your application process is put on hold until you have completed the ch
 The interview will be one and a half hours long. We usually invite you to our office if
 possible. If not, we will do a Video interview instead.
 
-You will be interviewed by our senior engineers and meet on of our founders.
+You will be interviewed by our senior engineers and meet one of our founders.
 
 We don’t do whiteboard coding or bother you with linked lists. Our technical interviews
 reflect the way we work. We will simply have some technical discussions about technology

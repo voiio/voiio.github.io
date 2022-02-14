@@ -5,7 +5,7 @@
 Almost our entire stack is based upon open source tools and libraries and all platforms
 we build upon have a strong relationship with open source and free software.
 
-We believe that no matter how much you give to the community you will always receive
+We believe that no matter how much you give to the community, you will always receive
 more. This is why we try to contribute as much as possible.
 
 ### Policy
@@ -20,7 +20,7 @@ NOT publish:
 1.  Customer, user or any other private data.
 2.  Information that could compromise the security of our systems.
 3.  Credentials or account data.
-4.  Any work containing domain specific knowledge
+4.  Any work containing domain-specific knowledge
     or otherwise could be considered a company asset
     or intellectual property.
 
