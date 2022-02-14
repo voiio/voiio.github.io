@@ -2,7 +2,7 @@
 
 We use BEM with unlimited component nesting.
 
-## Glossar
+## Glossary
 
 ### Block `.button`
 
@@ -16,7 +16,7 @@ We use BEM with unlimited component nesting.
 
 Ordering of styles in scss files.
 
-The ordering of the elements should be related to the top to bottom occurances of the class in html.
+The ordering of the elements should be related to the top to bottom occurrences of the class in html.
 
 1. `@extend`
 2. `@include`
@@ -124,7 +124,7 @@ Only modify elements by directly assigning a class.
 # Rule three - use style to a certain degree
 
 It's possible to use `style` attribute on HTML-Tags.
-But usually it should only be one CSS-Style.
+But usually, it should only be one CSS-Style.
 
 ## Why
 

@@ -1,12 +1,12 @@
 ## Welcome
+
 voiio is closing the gap between having to manage your job and private life.
 We are a German based B2B employee service provider, always creating new
 services that have a meaningful impact on people's every day lives.
 
-
 This document contains all information related to our software engineering,
 here at voiio. You will find documentation on our hiring processes and
-a glimpse into our day to day lives.
+a glimpse into our day-to-day lives.
 
 ### Join Us! (remote/Berlin/Hamburg)
 
@@ -83,7 +83,7 @@ Pull-Requests! Gotta merge'em all (gotta merge 'em all, Pull-Requests!)
 
 We take great pride in providing a workspace and atmosphere that is productive and safe
 for everyone. Therefore, the following [code of conduct](code_of_conduct.md) applies to
-all our public repositories, office interactions and social events.   
+all our public repositories, office interactions and social events.
 
 #### Open Source
 
@@ -101,15 +101,15 @@ our setup.
 You can find our full tech stack on [stackshare.io/voiio](https://stackshare.io/voiio).
 
 We use [dependabot](https://dependabot.com/) to keep all our Python and NodeJS
-dependencies up to date on a daily base.
+dependencies up to date on a daily basis.
 
-#### devOps and QA
+#### DevOps and QA
 
-We do not hire dedicated devOps and QA engineers. We do not hire devOps engineers
-because we are not in the business of running data centers but improving family's lives.
-We use Heroku and AWS to worry about most devOps related problems and have a full CD
+We do not hire dedicated DevOps and QA engineers. We do not hire DevOps engineers
+because we are not in the business of running data centers, but improving family's lives.
+We use Heroku and AWS to worry about most DevOps related problems and have a full CD
 pipeline setup for our applications.
 
 We believe that writing automated tests for your own code helps you to deliver better
-results and become a better engineer. Therefor, we do not have dedicated QA engineers.
-For us writing tests is part of writing features.
+results and become a better engineer. Therefore, we do not have dedicated QA engineers.
+For us, writing tests is part of writing features.
