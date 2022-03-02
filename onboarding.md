@@ -19,7 +19,7 @@ To make sure you get a smooth onboarding and enjoy it, your buddy will be there 
 #### First day
 * Setup computer and install the development environment.
 * Get access to all necessary [accounts](accounts.md).
-* Push your first commit to production.
+* Deploy your first commit on production.
 
 #### First week
 * 15 min daily checkins with buddy.
