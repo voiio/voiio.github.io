@@ -22,6 +22,8 @@ Our hiring process consists of five simple steps:
 You can find more information about our application process in our
 [application guide](apply.md).
 
+Once you join us, our [onboarding guide](onboarding.md) will help you get ready for your first day, week and month.
+
 ### Philosophy
 
 <!--//
