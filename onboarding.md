@@ -28,7 +28,7 @@ To make sure you get a smooth onboarding and enjoy it, your buddy will be there 
 * Intro to Google Analytics with Mos.
 
 #### First Month
-* We do a team event all the tech team together.
+* We, the entire tech team, do your first team event together.
 * Book an offer through the platform and participate to get a feeling of the product.
 
 ### Improve the onboarding
