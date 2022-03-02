@@ -11,7 +11,7 @@ Please give your team lead your GitHub username. He or she will invite you to ou
 Make sure to add your name and any picture (does need to be you) to help your new teammates to identify you quicker.
 
 #### Heroku
-We have Heroku Enterprise, please create an account on heroku and ask your team lead to give you the necessary permissions.
+We use Heroku Teams, please create an account on Heroku and ask your team lead to give you the necessary permissions.
 
 #### Sentry
 We use GitHub SSO to sign into Sentry. Simply go to https://sentry.io/voiio and login via GitHub.
