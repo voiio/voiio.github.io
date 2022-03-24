@@ -13,68 +13,20 @@ What is a good team fit? You should take your work serious and not yourself.
 
 Our hiring process consists of five simple steps:
 
-1.  your [application](#how-to-apply)
-2.  a quick [phone call](#introduction-call)
-3.  a [coding challenge](#coding-challenge) (optional)
-4.  [the interview](#the-interview)
-5.  a [reference check](#references)
+1.  your application
+2.  a quick phone call
+3.  a coding challenge (optional)
+4.  the interview
+5.  a reference check
 
 #### How to apply
 
-You can either apply for an [open position](https://voiio.de/karriere/) or write an
-unsolicited application.
-
-Your application should include:
-
--   definitely NO cover letter
--   your CV
--   a professional or personal reference
--   profiles (GitHub, Stack Overflow, LinkedIn)
--   Don’t be shy! It doesn’t matter if you don’t have everything in place.
-    Just submit your application incomplete. You can always send us more later.
-
-All applications should be submitted via email at
-[career@voiio.de](mailto:career@voiio.de).
-
-#### Introduction call
-
-If we like what we see on paper, we will invite you to a quick 30-minute call. This is
-your and our first chance to get to know each other. It is a casual call. You don’t have
-to prepare anything. We will be explaining to you a bit more about our company and might
-be asking for some missing information to complete your application.
-
-After the call, we will reassess and take a look at the code you have provided or send
-you a coding challenge.
-
-#### Coding challenge
-
-We like looking at an applicant’s code. Should you not have any public code on GitHub or
-any other project you can share with us, we might ask you to complete a small coding
-challenge.
-
-We believe a coding challenge should be small and completed in less than two hours. We
-don’t want to waste both your and our time.
-
-We will send you the challenge via email. You can submit your results and any time, but
-not that your application process is put on hold until you have completed the challenge.
-
-#### The interview
-
-The interview will be one and a half hours long. We usually invite you to our office if
-possible. If not, we will do a Video interview instead.
-
-You will be interviewed by our senior engineers and meet one of our founders.
-
-We don’t do whiteboard coding or bother you with linked lists. Our technical interviews
-reflect the way we work. We will simply have some technical discussions about technology
-and ask you for your opinion. You don’t need to prepare, so put down your algorithm book
-;)
-
-#### References
-
-Before we make a final decision, we always like to talk to a reference. Preferably this
-would be a professional reference, it does not need to be a previous supervisor a
-colleague will do. We just would like to speak to someone who already had the pleasure
-to work with you.
-
-Should you not be able to provide a professional reference, a personal one will do too.
+<img width="500" alt="1_Application" src="https://user-images.githubusercontent.com/627183/159882293-b333154a-85ec-4c60-a94a-bdc82b5994b7.png">
+<br/>
+<img width="500" alt="2_Phonecall" src="https://user-images.githubusercontent.com/627183/159882625-139f3b22-3ac0-41d4-bc44-41927257e4d4.png">
+<br/>
+<img width="500" alt="3_Coding" src="https://user-images.githubusercontent.com/627183/159882831-f8d349cb-3cad-4387-a6d8-4b528dbc1379.png">
+<br/>
+<img width="500" alt="4_Interview" src="https://user-images.githubusercontent.com/627183/159882843-71e1a561-c454-41a7-b55e-9abe70d2e948.png">
+<br/>
+<img width="500" alt="5_References" src="https://user-images.githubusercontent.com/627183/159882860-490b124f-55ff-4faa-808d-612fbb464ae0.png">
