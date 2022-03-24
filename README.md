@@ -84,7 +84,7 @@ Pull-Requests! Gotta merge'em all (gotta merge 'em all, Pull-Requests!)
 #### Code of Conduct
 
 We take great pride in providing a workspace and atmosphere that is productive and safe
-for everyone. Therefore, the following [code of conduct](code_of_conduct.md) applies to
+for everyone. Therefore, the following [code of conduct](code-of-conduct.md) applies to
 all our public repositories, office interactions and social events.
 
 #### Open Source
@@ -92,7 +92,7 @@ all our public repositories, office interactions and social events.
 Almost our entire stack is based upon open source tools and libraries and all platforms
 we build upon have a strong relationship with open source and free software.
 
-Please check out [our open source policy](open_source.md) for more information.
+Please check out [our open source policy](open-source.md) for more information.
 
 #### Our Stack
 
