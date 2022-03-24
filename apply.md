@@ -15,26 +15,25 @@ Our hiring process consists of five simple steps:
 
 1.  your [application](#how-to-apply)
 2.  a quick [phone call](#introduction-call)
-3.  a [coding challenge](#coding-challenge) (optional)
+3.  a [coding challenge](#coding-challenge) _(optional)_
 4.  [the interview](#the-interview)
 5.  a [reference check](#references)
 
 #### How to apply
 
 You can either apply for an [open position](https://voiio.de/karriere/) or write an
-unsolicited application.
+unsolicited application via email at
+[career@voiio.de](mailto:career@voiio.de).
 
 Your application should include:
 
--   definitely NO cover letter
--   your CV
--   a professional or personal reference
--   profiles (GitHub, Stack Overflow, LinkedIn)
--   Don’t be shy! It doesn’t matter if you don’t have everything in place.
-    Just submit your application incomplete. You can always send us more later.
+- definitely NO cover letter
+- your CV
+- a professional or personal reference
+- profiles (GitHub, Stack Overflow, LinkedIn)
 
-All applications should be submitted via email at
-[career@voiio.de](mailto:career@voiio.de).
+Don’t be shy! It doesn’t matter if you don’t have everything in place.
+Just submit your application incomplete. You can always send us more later.
 
 #### Introduction call
 
@@ -46,7 +45,7 @@ be asking for some missing information to complete your application.
 After the call, we will reassess and take a look at the code you have provided or send
 you a coding challenge.
 
-#### Coding challenge
+#### Coding challenge _(optional)_
 
 We like looking at an applicant’s code. Should you not have any public code on GitHub or
 any other project you can share with us, we might ask you to complete a small coding
