@@ -1,6 +1,7 @@
 # Team duties
 
-This document is helpful to know what areas are covered by each team member.
+This document details which areas are covered by each team member.
+Besides overall transparency, this might come in handy in case of vacations or sickness.
 
 ## [Mostafa](https://github.com/mostafa-anm)
 
