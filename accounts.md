@@ -16,6 +16,12 @@ Make sure to add your name and any picture (does need to be you) to help your ne
 
 We use Heroku Teams, please create an account on Heroku and ask your team lead to give you the necessary permissions.
 
+#### HireFire
+
+HireFire is used incombination with Heroku for load based auto-scaling.
+Please setup an account under voiio E-Mail address and enable 2FA.
+Only after completing both step can you be added to our HireFire organization.
+
 #### Sentry
 
 We use GitHub SSO to sign into Sentry. Simply go to https://sentry.io/voiio and login via GitHub.
