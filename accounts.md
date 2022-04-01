@@ -28,9 +28,9 @@ We use AWS to S3 to manage static content and utilize SES to send emails.
 
 Please ask your team lead to give you permissions.
 
-#### Google G Suite
+#### Google Workspace
 
-We use Google’s G Suite at voiio. Your new Google account will give you access to most tools using SSO.
+We use Google Workspace at voiio. Your new Google account will give you access to most tools using SSO.
 
 #### Personio
 
