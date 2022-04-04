@@ -18,9 +18,11 @@ We use Heroku Teams, please create an account on Heroku and ask your team lead t
 
 #### HireFire
 
-HireFire is used incombination with Heroku for load based auto-scaling.
-Please setup an account under voiio E-Mail address and enable 2FA.
-Only after completing both step can you be added to our HireFire organization.
+We use [HireFire][hirefire] in combination with Heroku for load based auto-scaling.
+Please, setup an account with your voiio E-Mail address and enable "2FA".
+Only after completing both steps, we can add you to our "HireFire"-organization. Please refer to your team lead for adding you to the organization.
+
+[hirefire]: https://hirefire.io/
 
 #### Sentry
 
