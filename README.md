@@ -8,7 +8,13 @@ This document contains all information related to our software engineering,
 here at voiio. You will find documentation on our hiring processes and
 a glimpse into our day-to-day lives.
 
-### Join Us! (remote/Berlin/Hamburg)
+### Team
+
+We maintain a list of what [topics individual people own](ownership.md) and are extra proud of.
+
+You may also find a full list of [our team here](https://github.com/orgs/voiio/people).
+
+#### Join Us! (remote/Berlin/Hamburg)
 
 We are excited that you are interested in joining [our team](https://github.com/orgs/voiio/people).
 Our hiring process consists of five simple steps:
@@ -105,6 +111,17 @@ You can find our full tech stack on [stackshare.io/voiio](https://stackshare.io/
 
 We use [dependabot](https://dependabot.com/) to keep all our Python and NodeJS
 dependencies up to date on a daily basis.
+
+
+#### Coding Style
+
+We don't have too many conventstion. We have black for Python, Standard for JavaScript and
+Styleling setup with precommit all preos. We want to make sure that code is simple and
+readable, to make reviewing for our fellow engineers more fun.
+
+We have a small collections of things, that we want to stick to, if possible in our
+[style guide](https://github.com/voiio/voiio.github.io/blob/main/scss_style_guide.md).
+
 
 #### DevOps and QA
 
