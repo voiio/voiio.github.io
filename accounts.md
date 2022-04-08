@@ -12,6 +12,14 @@ Please give your team lead your GitHub username. He or she will invite you to ou
 
 Make sure to add your name and any picture (does need to be you) to help your new teammates to identify you quicker.
 
+#### Codecov
+
+We send our coverage results to [Codecov][codecov] to get reports
+and insights.
+Please use your GitHub credentials to login.
+
+[codecov]: https://about.codecov.io/
+
 #### Heroku
 
 We use Heroku Teams, please create an account on Heroku and ask your team lead to give you the necessary permissions.
