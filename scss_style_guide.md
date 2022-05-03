@@ -1,6 +1,8 @@
 # SCSS Style-Guide
 
-We use BEM with unlimited component nesting.
+We use BEM with unlimited component nesting, but maximum one level of child components.
+
+This [website](https://9elements.com/bem-cheat-sheet/) has a good visual guide on how we use BEM.
 
 ## Glossary
 
