@@ -9,6 +9,7 @@ Besides transparency, this might come in handy in case of vacations or sickness.
 | [voiio.de](https://voiio.de)                     |            | x                 |              |          |                   |               |            |            |
 | javascript dependencies                          |            | x                 |              |          |                   |               |            |            |
 | [CSS style guide](scss_style_guide.md)           |            | x                 |              |          |                   |               |            |            |
+| JetBrains licenses                               |            | x                 |              |          |                   |               |            |            |
 | first-level tech support                         |            |                   | x            |          |                   |               |            |            |
 | tech meetups organization                        |            |                   | x            |          |                   |               |            |            |
 | tech interviews                                  |            |                   | x            |          |                   |               |            |            |
@@ -17,7 +18,7 @@ Besides transparency, this might come in handy in case of vacations or sickness.
 | design feedback                                  |            |                   |              |          |                   | x             |            |            |
 | user journey                                     |            |                   |              |          |                   | x             |            |            |
 | UI library                                       |            |                   |              |          |                   | x             |            |            |
-| [Sentry](https://sentry.io)                      |            |                   |              | x        |                   |               |            |(x)         |
+| [Sentry](https://sentry.io)                      |            |                   |              | x        |                   |               |            | (x)        |
 | [warehouse](https://data.voiio.de)               |            |                   |              | x        |                   |               |            |            |
 | python dependencies                              |            |                   |              | x        |                   |               |            |            |
-| product news (changelog)                         |            |                   |              |          |                   |               |x           |x           |
+| product news (changelog)                         |            |                   |              |          |                   |               | x          | x          |
