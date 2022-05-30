@@ -5,7 +5,6 @@ Besides transparency, this might come in handy in case of vacations or sickness.
 
 |                                                  | @codingjoe | @SebastianKapunkt | @mostafa-anm | @amureki | @jacqueline-kraus | @creativephil | @bniwinski | @fidelitas |
 |--------------------------------------------------|------------|-------------------|--------------|----------|-------------------|---------------|------------|------------|
-| bug reports via [Usersnap](https://usersnap.com) |            | x                 |              |          |                   |               |            |            |
 | [voiio.de](https://voiio.de)                     |            | x                 |              |          |                   |               |            |            |
 | javascript dependencies                          |            | x                 |              |          |                   |               |            |            |
 | [CSS style guide](scss_style_guide.md)           |            | x                 |              |          |                   |               |            |            |
@@ -21,4 +20,5 @@ Besides transparency, this might come in handy in case of vacations or sickness.
 | [Sentry](https://sentry.io)                      |            |                   |              | x        |                   |               |            | (x)        |
 | [warehouse](https://data.voiio.de)               |            |                   |              | x        |                   |               |            |            |
 | python dependencies                              |            |                   |              | x        |                   |               |            |            |
+| bug reports via [Usersnap](https://usersnap.com) |            |                   |              |          |                   |               | x          |            |
 | product news (changelog)                         |            |                   |              |          |                   |               | x          | x          |
