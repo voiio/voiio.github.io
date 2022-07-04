@@ -1,4 +1,4 @@
-# SCSS Style-Guide
+# SCSS
 
 We use BEM with unlimited component nesting, but maximum one level of child components.
 

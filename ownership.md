@@ -7,7 +7,7 @@ Besides transparency, this might come in handy in case of vacations or sickness.
 |--------------------------------------------------|------------|-------------------|--------------|----------|-------------------|---------------|------------|------------|
 | [voiio.de](https://voiio.de)                     |            | x                 |              |          |                   |               |            |            |
 | javascript dependencies                          |            | x                 |              |          |                   |               |            |            |
-| [CSS style guide](scss_style_guide.md)           |            | x                 |              |          |                   |               |            |            |
+| [style guide](styleguide.md)                    |            | x                 |              |          |                   |               |            |            |
 | JetBrains licenses                               |            | x                 |              |          |                   |               |            |            |
 | first-level tech support                         |            |                   | x            |          |                   |               |            |            |
 | tech meetups organization                        |            |                   | x            |          |                   |               |            |            |
