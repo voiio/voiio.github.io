@@ -6,9 +6,10 @@ Use `data-vue-id` selector to mount components.
 
 ### Why
 
-`id` selectors are generic and could be used for multiple purposes, which then easy to forget.
-Example: there was a component with certain id, which was later refactored (thus id changed).
-However, this id was also used for analytics, which was forgotten and not updated.
+`id` selectors are generic and could be used for multiple purposes. They are easy to forget.
+Example: There is a component with a certain id. It was later refactored, the id changed..
+However, this id was also used for analytics. It was forgotten and not updated.
+
 By using data selectors, we can separate concerns and avoid issues like this.
 
 ### Don't
