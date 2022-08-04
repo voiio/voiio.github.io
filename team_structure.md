@@ -96,3 +96,11 @@ They are responsible for the project's outcome. They gather requirements, define
 solution, and coordinate the team. The team usually consists of other engineers.
 
 They product manager must frequently update and align the project with relevant stakeholders.
+
+As a first step, the project lead collects acceptance criteria from the department heads.
+Based on those, the project leads define the project outcome and the deliverable
+increments. Those must be communicated and agreed upon with the department head prior
+to execution.
+
+Should the acceptance criteria exceed the project scope or miss the project's objective,
+the product owner can revise or cancel the project.
