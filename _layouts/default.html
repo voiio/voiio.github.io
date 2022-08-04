@@ -51,5 +51,20 @@
     </footer>
 </div>
 <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/9.1.3/mermaid.min.js" defer></script>
+<script>
+const config = {
+  startOnLoad:true,
+  theme: 'forest',
+  flowchart: {
+    useMaxWidth:false,
+    htmlLabels:true
+  }
+}
+document.addEventListener('DOMContentLoaded', function() {
+  mermaid.initialize(config);
+  mermaid.init(undefined, '.language-mermaid');
+});
+</script>
 </body>
 </html>
