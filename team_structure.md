@@ -7,9 +7,9 @@ flowchart TD
     CEO{CEO};
     CTO{CTO};
     PO{Product Owner};
-    team{voiio};
-    TM{tech. Manager};
-    TL{dep. Head};
+    team{voiio Team};
+    TM{Project Lead};
+    TL{Dep. Head};
     CEO -- compnay OKR --> CTO;
     CTO -- product OKR --> PO;
     CTO <-. platform architecture .-> TM;
@@ -26,7 +26,7 @@ flowchart LR
     CEO{CEO};
     CTO{CTO};
     PO{PO};
-    TM{TM};
+    TM{PL};
     companyVision[[Company Vision]];
     productVision[[Product Vision]];
     productRoadmap[[Product Roadmap]];
@@ -68,11 +68,13 @@ ORKs are communicated within the company to identify synergies or conflicts of i
 
 Objectives are set by the manager in alignment with the company or product vision.
 They are their main tool of control and need to be highly specific and achievable.
+Furthermore, they should be outcome and not output oriented. Meaning that they should
+define a goal, not implementation or specific features.
 Objectives may change over time, to allow the manager to set the focus on new challenges.
 
 #### Key Results
 
-Key results are committed output on the objective set by the manager.
+Key results are committed outcome towards the objective set by the manager.
 They must be achievable by the team without external dependencies or side effects.
 Should a team struggle to define key results, this might indicate that the manager
 needs to set a more refined objective.
@@ -89,7 +91,8 @@ The product owner must frequently update and align the roadmap with relevant sta
 
 ### Project
 
-The project is owned by a technical manager. They are responsible for the project's
-outcome. They gather requirements, define solution, and coordinate the team.
+The project is owned by a project lead. Any engineer can be the project leads.
+They are responsible for the project's outcome. They gather requirements, define
+solution, and coordinate the team. The team usually consists of other engineers.
 
 They product manager must frequently update and align the project with relevant stakeholders.

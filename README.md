@@ -121,16 +121,14 @@ You can find our full tech stack on [stackshare.io/voiio](https://stackshare.io/
 We use [dependabot](https://dependabot.com/) to keep all our Python and NodeJS
 dependencies up to date on a daily basis.
 
-
 ### Coding Style
 
-We don't have too many conventstion. We have black for Python, Standard for JavaScript and
-Styleling setup with precommit all preos. We want to make sure that code is simple and
-readable, to make reviewing for our fellow engineers more fun.
+We don't have too many convention. We have black for Python, Standard for JavaScript and
+styling setup with pre-commit all repositories. We want to make sure that code is
+simple and readable, to make reviewing for our fellow engineers more fun.
 
 We have a small collections of things, that we want to stick to, if possible in our
 [style guide](https://github.com/voiio/voiio.github.io/blob/main/scss_style_guide.md).
-
 
 ### DevOps and QA
 
