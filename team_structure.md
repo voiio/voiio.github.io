@@ -10,7 +10,7 @@ flowchart TD
     team{voiio Team};
     TM{Project Lead};
     TL{Dep. Head};
-    CEO -- compnay OKR --> CTO;
+    CEO -- company OKR --> CTO;
     CTO -- product OKR --> PO;
     CTO <-. platform architecture .-> TM;
     PO -- project OKR --> TM;
@@ -56,13 +56,13 @@ need to be shared with all employees.
 
 ### OKR
 
-_ORK = Objective Key Result_
+_OKR = Objective Key Result_
 
 We use OKRs as a bidirectional communication, with goal alignment in the form of
 objectives and impactful delivery in form of key results. They must be agreed upon
 by both the team and manager.
 
-ORKs are communicated within the company to identify synergies or conflicts of interest.
+OKRs are communicated within the company to identify synergies or conflicts of interest.
 
 #### Objectives
 
@@ -81,11 +81,11 @@ needs to set a more refined objective.
 
 ### Product Roadmap
 
-The product roadmap help organize and communicate individual product ORKs for the
+The product roadmap helps to organize and communicate individual product OKRs for the
 upcoming month. The document is owned and maintained by the product owner.
 
 The product owner does not define a timeline based on estimates or solutions, but based
-on amount of time they want to invest to achieve an objective.
+on the amount of time they want to invest to achieve an objective.
 
 The product owner must frequently update and align the roadmap with relevant stakeholders.
 
@@ -118,7 +118,7 @@ The project is owned by a project lead. Any engineer can be the project leads.
 They are responsible for the project's outcome. They gather requirements, define
 solution, and coordinate the team. The team usually consists of other engineers.
 
-They product manager must frequently update and align the project with relevant stakeholders.
+The product manager must frequently update and align the project with relevant stakeholders.
 
 As a first step, the project lead collects acceptance criteria from the department heads.
 Based on those, the project leads define the project outcome and the deliverable
