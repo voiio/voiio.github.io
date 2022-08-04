@@ -91,6 +91,29 @@ The product owner must frequently update and align the roadmap with relevant sta
 
 ### Project
 
+```mermaid
+sequenceDiagram
+    actor PO as Product Owner
+    actor PL as Project Lead
+    actor head as Dep. Head
+    PO ->> PL : objective: Increase user retention
+    PO -> PL : key-result: increase returning user rate by 20%
+    PO ->> PL : scope: within 2 development weeks
+    PL ->> head: What are the acceptance criteria for the project?
+    head ->> PL: A user needs to be able to ...
+    PL ->> PO: Here's what we can delivery and two weeks and the increments we will deploy.
+    alt dep. Head gives O.K.
+    PL ->> PL: development
+    PL ->> head: feature delivery
+    PL ->> PO: result: returning user rate up by 25%
+    else dep. Head does not give O.K.
+    PL ->> PO: rescope or cancel?
+    PO --> head: rescoping
+    end
+
+
+```
+
 The project is owned by a project lead. Any engineer can be the project leads.
 They are responsible for the project's outcome. They gather requirements, define
 solution, and coordinate the team. The team usually consists of other engineers.
