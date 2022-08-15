@@ -101,7 +101,7 @@ sequenceDiagram
     PO ->> PL : scope: within 2 development weeks
     PL ->> head: What are the acceptance criteria for the project?
     head ->> PL: A user needs to be able to ...
-    PL ->> head: Here's what we can delivery and two weeks and the increments we will deploy.
+    PL ->> head: Here's what we can deliver in two weeks and the increments we will deploy.
     alt dep. Head gives O.K.
     PL ->> PL: development
     PL ->> head: feature delivery
