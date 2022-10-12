@@ -11,10 +11,10 @@ Besides transparency, this might come in handy in case of vacations or sickness.
 | JetBrains licenses                               |            | x                 |              |          |            |              |
 | UI library                                       |            | x                 |              |          |            |              |
 | first-level tech support                         |            |                   | (x)          |          |            | x            |
-| tech meetups organization                        |            |                   |              | x        |            |              |
-| tech interviews                                  |            |                   |              |          |            | x            |
 | Google Tag Manager                               |            |                   | (x)          |          |            | x            |
+| tech interviews                                  |            |                   |              |          |            | x            |
 | [Sentry](https://sentry.io)                      |            |                   |              | x        |            | (x)          |
+| tech meetups organization                        |            |                   |              | x        |            |              |
 | [warehouse](https://data.voiio.de)               |            |                   |              | x        |            |              |
 | python dependencies                              |            |                   |              | x        |            |              |
 | bug reports via [Usersnap](https://usersnap.com) |            |                   |              |          | x          |              |
