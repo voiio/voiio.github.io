@@ -19,17 +19,7 @@ You may also find a full list of [our team here](https://github.com/orgs/voiio/p
 ### Join Us! (remote/Berlin/Hamburg)
 
 We are excited that you are interested in joining [our team](https://github.com/orgs/voiio/people).
-Our current openings can be found at [voiio.de/karriere](https://voiio.de/karriere/).
-voiio hiring process consists of five simple steps:
-
-1.  your application
-2.  a quick phone call
-3.  coding challenge (optional)
-4.  the interview
-5.  a reference check
-
-You can find more information about our application process in our
-[application guide](apply.md).
+You can find all information about our application process in [application guide](apply.md).
 
 Once you join us, our [onboarding guide](onboarding.md) will help you
 get ready for your first day, week and month.
