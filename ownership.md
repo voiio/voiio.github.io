@@ -5,13 +5,13 @@ Besides transparency, this might come in handy in case of vacations or sickness.
 
 |                                                                                                                           | @codingjoe | @SebastianKapunkt | @mostafa-anm | @amureki | @bniwinski | @herrbenesch |
 |---------------------------------------------------------------------------------------------------------------------------|------------|-------------------|--------------|----------|------------|--------------|
-| [voiio.de](https://voiio.de)                                                                                              |            | x                 |              |          |            |              |
-| javascript dependencies                                                                                                   |            | x                 |              |          |            |              |
-| [style guide](styleguide.md)                                                                                              |            | x                 |              |          |            |              |
+| [voiio.de](https://voiio.de)                                                                                              |            | x                 | (x)          |          |            |              |
+| javascript dependencies                                                                                                   |            | x                 | (x)          |          |            |              |
+| [style guide](styleguide.md)                                                                                              |            | x                 | (x)          |          |            |              |
 | JetBrains licenses                                                                                                        |            | x                 |              |          |            |              |
-| UI library                                                                                                                |            | x                 |              |          |            |              |
+| UI library                                                                                                                |            | x                 | (x)          |          |            |              |
 | first-level tech support                                                                                                  |            |                   | (x)          |          |            | x            |
-| Google Tag Manager                                                                                                        |            |                   | (x)          |          |            | x            |
+| Google Tag Manager                                                                                                        |            |                   | x            |          |            |              |
 | tech interviews                                                                                                           |            |                   |              |          |            | x            |
 | [Sentry](https://sentry.io)                                                                                               |            |                   |              | x        |            | (x)          |
 | tech meetups organization                                                                                                 |            |                   |              | x        |            |              |
