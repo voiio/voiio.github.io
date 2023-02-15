@@ -15,6 +15,7 @@ Besides transparency, this might come in handy in case of vacations or sickness.
 | Storyboard via [Miro][Miro]          |            | x                 |              |          |              |
 | Designs via [Figma][Figma]           |            | x                 |              |          |              |
 | Google Tag Manager                   |            |                   | x            |          |              |
+| Looker Studio                        |            |                   | x            |          |              |
 | [Sentry][Sentry]                     |            |                   |              | x        |              |
 | tech meetups organization            |            |                   |              | x        |              |
 | [warehouse][warehouse]               |            |                   |              | x        |              |
