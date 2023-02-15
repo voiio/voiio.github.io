@@ -15,7 +15,7 @@ Besides transparency, this might come in handy in case of vacations or sickness.
 | Storyboard via [Miro][Miro]          |            | x                 |              |          |              |
 | Designs via [Figma][Figma]           |            | x                 |              |          |              |
 | Google Tag Manager                   |            |                   | x            |          |              |
-| Looker Studio                        |            |                   | x            |          |              |
+| [Looker Studio]                      |            |                   | x            |          |              |
 | [Sentry][Sentry]                     |            |                   |              | x        |              |
 | tech meetups organization            |            |                   |              | x        |              |
 | [warehouse][warehouse]               |            |                   |              | x        |              |
@@ -32,3 +32,4 @@ Besides transparency, this might come in handy in case of vacations or sickness.
 [Usersnap]: https://usersnap.com
 [voiio.de]: https://voiio.de
 [warehouse]: https://data.voiio.de
+[Looker Studio]: https://lookerstudio.google.com/reporting/0f334359-5c0d-4b65-b7c7-c3261595497a/page/FKvyC
