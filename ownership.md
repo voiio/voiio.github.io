@@ -19,9 +19,9 @@ Besides transparency, this might come in handy in case of vacations or sickness.
 | [Sentry][Sentry]                     |            |                   |              | x        |              |
 | tech meetups organization            |            |                   |              | x        |              |
 | [warehouse][warehouse]               |            |                   |              | x        |              |
-| python dependencies                  |            |                   |              | x        |              |
 | [SSL certificates][SSL_certificates] |            |                   |              | x        |              |
 | first-level tech support             |            |                   |              |          | x            |
+| python dependencies                  |            |                   |              |          | x            |
 | tech interviews                      |            |                   |              |          | x            |
 
 
