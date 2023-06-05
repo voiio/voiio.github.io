@@ -19,7 +19,7 @@ Besides transparency, this might come in handy in case of vacations or sickness.
 | [Sentry][Sentry]                     |            |                   |              | x        |              |
 | tech meetups organization            |            |                   |              | x        |              |
 | [warehouse][warehouse]               |            |                   |              | x        |              |
-| [SSL certificates][SSL_certificates] |            |                   |              | x        |              |
+| [SSL certificates][SSL certificates] |            |                   |              | x        |              |
 | first-level tech support             |            |                   |              |          | x            |
 | python dependencies                  |            |                   |              |          | x            |
 | tech interviews                      |            |                   |              |          | x            |
@@ -28,7 +28,7 @@ Besides transparency, this might come in handy in case of vacations or sickness.
 [Figma]: https://www.figma.com/files/team/1206963489982218455/voiio
 [Miro]: https://miro.com/app/dashboard/
 [Sentry]: (https://sentry.io)
-[SSL_certificates]: https://github.com/voiio/voiio-platform/blob/main/docs/RUNBOOK.md#ssl--tls-certificates--lets-encrypt
+[SSL certificates]: https://github.com/voiio/voiio-platform/blob/main/docs/RUNBOOK.md#ssl--tls-certificates--lets-encrypt
 [Usersnap]: https://usersnap.com
 [voiio.de]: https://voiio.de
 [warehouse]: https://data.voiio.de

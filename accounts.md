@@ -9,10 +9,21 @@ Please install it on your machine and ask your team lead to invite you there.
 
 #### GitHub
 
-Please give your team lead your GitHub username.
-He or she will invite you to our organization or as a collaborator to a repository.
+1. [Create a GitHub account][GitHub SignUp] if you don't have one already.
+2. Enable two-factor authentication (2FA) on your GitHub account.
+   1. [Open security settings][GitHub Security Settings]
+   2. Click "Enable two-factor authentication"
+   3. It is recommended to use an app like Authy or Google Authenticator to generate your 2FA codes, but you can also use SMS.
+3. Give your team lead your GitHub username. He or she will invite you to our organization or as a collaborator to a repository.
+4. Please also [update your profile picture and display name][GitHub Profile Settings], so team members can identify you.
+5. And the last step to improve our brand power - to set your profile to be visible in our team
+   1. Open [our team members page][GitHub voiio team]
+   2. Click on a dropdown that says "private" against your name and switch it to "public"
 
-Make sure to add your name and any picture (does need to be you) to help your new teammates to identify you quicker.
+[GitHub SignUp]: https://github.com/signup
+[GitHub Security Settings]: https://github.com/settings/security
+[GitHub Profile Settings]: https://github.com/settings/profile
+[GitHub voiio team]: https://github.com/orgs/voiio/people
 
 #### Codecov
 
