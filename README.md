@@ -112,6 +112,11 @@ You can find our full tech stack on [stackshare.io/voiio](https://stackshare.io/
 We use [dependabot](https://dependabot.com/) to keep all our Python and NodeJS
 dependencies up to date on a daily basis.
 
+AI hype did not pass us by. We are passionate about new discoveries in this field and
+are always looking for ways to improve our services with it.
+There is even a small collection of [prompts for LLMs](prompts.md)
+that we are using internally.
+
 ### Coding Style
 
 We don't have too many convention. We have black for Python, Standard for JavaScript and
