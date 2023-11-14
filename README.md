@@ -29,8 +29,6 @@ get ready for your first day, week and month.
 We currently do continuous delivery, based on OKRs. No SCRUM. Engineers don't just write
 code but create solutions. Excellent communication skills are a must.
 
-You can fine the [full team structure here](team_structure.md).
-
 ### Code of Conduct
 
 We take great pride in providing a workspace and atmosphere that is productive and safe
