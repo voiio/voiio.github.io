@@ -32,6 +32,14 @@ header {
         border: initial;
         width: initial;
 
+        ul  ul  ul {
+            display: none;
+        }
+
+        li {
+            padding-left: 10px;
+        }
+
         li, li + li + li {
             width: 100%;
             float: initial;
@@ -63,11 +71,11 @@ header {
             &:last-child a {
                 border-radius: initial;
             }
-
-            ul li ul li a {
-                padding-left: 10px;
-            }
         }
+    }
+
+    > ul > li {
+        padding-right: 0;
     }
 
     .claim {
