@@ -34,18 +34,18 @@ We are not afraid to speak up and address problems. We are not afraid to ask for
 
 #### 2. Don't talk, act!
 
-We are a team of doers. We don't talk about problems, we solve them. We don't talk about
+We are a team of doers. We don't only talk about problems, we solve them. We don't only talk about
 ideas, we implement them. We don't talk about people, we talk to them.
 
 #### 3. There are no silver medals.
 
-We get up in the morning to run for gold, not for silver.
+We get up in the morning to compete for gold, not for silver.
 We will fail, but we don't start something with a failure mindset.
 
 #### 4. If you gotta work, it better be fun!
 
 Work is a major part of our lives. Therefore, we want to do work,
-that fulfills us and we enjoy. If we don't, we are but a penguin on land –
+that fulfills us and that we enjoy. If we don't, we are but a penguin on land –
 not in our element.
 
 #### 5. Unite people, don't divide.
@@ -55,14 +55,14 @@ We don't judge people, we educate them. We don't blame people, we help them.
 
 #### 6. Give strength, when others need it.
 
-We take care of our own. We are here for you, should you need our help,
-but we expect you give strength to others, whenever you can.
+We take care of our own. We are here for you, should you need our help.
+But we expect you give strength to others, whenever you can.
 
 ### Our Product Principles
 
 Our product principles are the secret sauce that makes our products extra special.
 
-#### 1. thoughtfulness
+#### 1. thoughtful
 
 We care about the details. Every interaction should be thoughtful and intentional.
 A user should feel that we deeply care about the product we are building.
@@ -71,7 +71,7 @@ Small things matter.
 #### 2. inspiring
 
 We want to inspire people to do new things. We build products and services
-that exceed our customers wildest dreams. Cars not faster horses.
+that exceed our customers wildest dreams. Cars, not faster horses.
 
 #### 3. clutch
 
