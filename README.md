@@ -8,6 +8,81 @@ This document contains all information related to our software engineering,
 here at voiio. You will find documentation on our hiring processes and
 a glimpse into our day-to-day lives.
 
+
+## Why and how we do, what we do?
+
+### Our Vision
+
+Even in an age of AI, people are the primary long term success factor of any enterprise.
+We believe that retaining, developing, motivating and supporting employees can be achieved
+by providing businesses and their leaders with the right tools and services.
+
+### Our Mission
+
+We build services and products that have a meaningful impact
+on people's every day work and private lives.
+
+
+### Our Company Values
+
+Our values are the foundation of our work and team culture.
+
+#### 1. Transparency, especially where it hurts.
+
+Kind candor is the foundation of our culture. We are honest and direct with each other.
+We are not afraid to speak up and address problems. We are not afraid to ask for help.
+
+#### 2. Don't talk, act!
+
+We are a team of doers. We don't talk about problems, we solve them. We don't talk about
+ideas, we implement them. We don't talk about people, we talk to them.
+
+#### 3. There are no silver medals.
+
+We get up in the morning to run for gold, not for silver.
+We will fail, but we don't start something with a failure mindset.
+
+#### 4. If you gotta work, it better be fun!
+
+Work is a major part of our lives. Therefore, we want to do work,
+that fulfills us and we enjoy. If we don't, we are but a penguin on land –
+not in our element.
+
+#### 5. Unite people, don't divide.
+
+In a world that is more and more divided, we want to bring people together.
+We don't judge people, we educate them. We don't blame people, we help them.
+
+#### 6. Give strength, when others need it.
+
+We take care of our own. We are here for you, should you need our help,
+but we expect you give strength to others, whenever you can.
+
+### Our Product Principles
+
+Our product principles are the secret sauce that makes our products extra special.
+
+#### 1. thoughtfulness
+
+We care about the details. Every interaction should be thoughtful and intentional.
+A user should feel that we deeply care about the product we are building.
+Small things matter.
+
+#### 2. inspiring
+
+We want to inspire people to do new things. We build products and services
+that exceed our customers wildest dreams. Cars not faster horses.
+
+#### 3. clutch
+
+We want to be the best at what we do.
+We want to be the clutch player that everyone wants on their team.
+
+#### 4. no bs
+
+We don't keep bullshit around. If it doesn't add value, it needs to go.
+Embrace your inner Marie Kondo.
+
 ## Team
 
 ### Who does what?
