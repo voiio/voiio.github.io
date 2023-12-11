@@ -16,13 +16,13 @@ Besides transparency, this might come in handy in case of vacations or sickness.
 | Designs via [Figma][Figma]           |            | x                 |              |          |              |
 | Google Tag Manager                   |            |                   | x            |          |              |
 | [Looker Studio]                      |            |                   | x            |          |              |
-| [Sentry][Sentry]                     |            |                   |              | x        |              |
+| [Sentry][Sentry]                     |            |                   |              |          | x            |
 | tech meetups organization            |            |                   |              | x        |              |
 | [warehouse][warehouse]               |            |                   |              | x        |              |
 | [SSL certificates][SSL certificates] |            |                   |              | x        |              |
 | first-level tech support             |            |                   |              |          | x            |
 | python dependencies                  |            |                   |              |          | x            |
-| tech interviews                      |            |                   |              |          | x            |
+| tech interviews                      |            |                   | x            |          |              |
 
 
 [Figma]: https://www.figma.com/files/team/1206963489982218455/voiio
