@@ -5,5 +5,4 @@ Moreover, for certain topics we developed our own guidelines.
 
 ## Table of content
 
-- [SCSS](styleguide/scss.md)
-- [Vue.js](styleguide/vue.md)
+-   [SCSS](styleguide/scss.md)

@@ -58,6 +58,14 @@ We use AWS to S3 to manage static content and utilize SES to send emails.
 
 Please ask your team lead to give you permissions.
 
+#### Algolia
+
+Our platform utilizes [Algolia][algolia]'s search and recommendation engine to seamlessly connect users with what they seek.
+
+Please ask your team lead to give you permissions.
+
+[algolia]: https://www.algolia.com/
+
 #### Google Workspace
 
 We use Google Workspace at voiio. Your new Google account will give you access to most tools using SSO.

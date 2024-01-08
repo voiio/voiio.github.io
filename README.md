@@ -8,7 +8,6 @@ This document contains all information related to our software engineering,
 here at voiio. You will find documentation on our hiring processes and
 a glimpse into our day-to-day lives.
 
-
 ## Why and how we do, what we do?
 
 ### Our Vision
@@ -21,7 +20,6 @@ by providing businesses and their leaders with the right tools and services.
 
 We build services and products that have a meaningful impact
 on people's every day work and private lives.
-
 
 ### Our Company Values
 
@@ -197,7 +195,7 @@ styling setup with pre-commit all repositories. We want to make sure that code i
 simple and readable, to make reviewing for our fellow engineers more fun.
 
 We have a small collections of things, that we want to stick to, if possible in our
-[style guide](https://github.com/voiio/voiio.github.io/blob/main/scss_style_guide.md).
+[style guide](https://github.com/voiio/voiio.github.io/blob/main/styleguide/scss.md).
 
 ### DevOps and QA
 
