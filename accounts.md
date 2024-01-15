@@ -70,6 +70,44 @@ Please ask your team lead to give you permissions.
 
 We use Google Workspace at voiio. Your new Google account will give you access to most tools using SSO.
 
+
+#### Google Marketing Platform
+
+The [Google Marketing Platform][google marketing platform] includes tools like Google Analytics, Google Ads, and more, we use it for tracking feature adoptions.
+
+We have Google SSO enabled for Google Marketing Platform. Please ask your team lead to give you permissions.
+
+[google marketing platform]: https://marketingplatform.google.com/
+
+
+#### OpenAI Platform
+
+We use [OpenAI][openai]'s tools like ChatGPT. For engaging better conversations and automating tasks.
+
+Please ask your team lead to give you permissions.
+
+[openai]: https://platform.openai.com/
+
+
+#### Hotjar
+
+We use [hotjar][hotjar] analytics tool to understand users' behaviour.
+
+Please ask your team lead to give you permissions.
+
+[hotjar]: https://www.hotjar.com/
+
+
+#### Usersnap
+
+[Usersnap][usersnap] is our tool for collecting and managing user feedback.
+
+We have Google SSO enabled for Usersnap. Please ask your team lead to give you permissions.
+
+[usersnap]: https://app.usersnap.com/
+
+
+
 #### Personio
 
 Personio is our human resources tool.

@@ -102,6 +102,16 @@ get ready for your first day, week and month.
 We currently do continuous delivery, based on OKRs. No SCRUM. Engineers don't just write
 code but create solutions. Excellent communication skills are a must.
 
+### Check-In / Check-Out
+
+Embracing flexible working hours is fantastic, and we want to ensure that work is not disrupted by people having different schedules.
+
+In order to facilitate smooth collaboration, we follow a practice of checking in and checking out:
+
+Before starting the day, each team member checks in, updating others on their availability.
+
+Similarly, we notify our colleagues 30 minutes before checking out for the day, providing them with an opportunity to address any last-minute tasks or inquiries before wrapping up their work.
+
 ### Code of Conduct
 
 We take great pride in providing a workspace and atmosphere that is productive and safe
