@@ -22,7 +22,7 @@ To make sure you get a smooth onboarding and enjoy it, your buddy will be there 
 
 1. A documentation ticket to improve our documentation and to get you acquainted with our development and deployment pipeline.
 
-2. Fix a small technical issue using some technology you already know. This will be close to vanilla Python/Django or Javascript/Vue.js.
+2. Fix a small technical issue using some technology you already know. This will be close to vanilla Python/Django or Javascript/Lit.
 
 3. A more challenging technical issue, this time you will get to work with a part of our stack that is new to you.
 
