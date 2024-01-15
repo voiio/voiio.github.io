@@ -75,7 +75,7 @@ We use Google Workspace at voiio. Your new Google account will give you access t
 
 The [Google Marketing Platform][google marketing platform] includes tools like Google Analytics, Google Ads, and more, we use it for tracking feature adoptions.
 
-We have Google SSO enabled for Google Marketing Platform. Please ask your team lead to give you permissions.
+We have Google SSO enabled for Google Marketing Platform. Please ask your team lead to invite you to the correct permission groups.
 
 [google marketing platform]: https://marketingplatform.google.com/
 
