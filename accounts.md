@@ -25,6 +25,13 @@ Please install it on your machine and ask your team lead to invite you there.
 [GitHub Profile Settings]: https://github.com/settings/profile
 [GitHub voiio team]: https://github.com/orgs/voiio/people
 
+#### Sentry
+We use [Sentry] for error reporting and tracing for all of our applications.
+
+[Sentry]: https://voiio.sentry.io/
+
+You'll have to log in with your Github account to gain access to our projects.
+
 #### Codecov
 
 We send our coverage results to [Codecov][codecov] to get reports
