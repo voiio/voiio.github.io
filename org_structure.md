@@ -36,13 +36,13 @@ The platform enables companies to
 * and foster a supportive family and social life.
 
 voiio is a one-stop-shop for all employees and their needs.
-Employees use voiio on a regular basis and rely on it to support their daily lives.
+Employees use voiio regularly and rely on it to support their daily lives.
 
 We believe that
 
 * happy employees are the key to a successful company,
 * all employees have unique needs and challenges
-* and that we are able to provide a personalized solution for every employee.
+* and that we can provide a personalized solution for every employee.
 
 ### Product Principles
 
@@ -61,10 +61,10 @@ that exceed our customers wildest dreams. Cars, not faster horses.
 
 #### 3. clutch
 
-We want to be the best at what we do.
-We want to be the clutch player that everyone wants on their team.
+We are the best at what we do.
+We aim to be the clutch players that everyone wants on their team.
 
-#### 4. no bs
+#### 4. no BS
 
 We don't keep bullshit around. If it doesn't add value, it needs to go.
 Embrace your inner Marie Kondo.
@@ -87,7 +87,7 @@ Product management reports directly to the CEO.
 A UX Designer or Researcher is responsible for
 
 * developing and maintaining a UI library and UX guidelines to enable our engineering team to build consistent and user-friendly interfaces,
-* creating wireframes, storyboards and user flows to enable engineers to build the right features,
+* creating wireframes, storyboards, and user flows to enable engineers to build the right features,
 * conducting user research, evaluating user feedback and execute rapid prototyping and testing to fail early and save engineering cost.
 
 ##### Stakeholders
@@ -172,4 +172,28 @@ CRM is responsible for
 
 ## Meetings & Collaboration
 
-- Feature Development: Collaborate with Engineering to translate product requirements into development tasks and features.
+### Stakeholder Meetings
+
+Stakeholder meetings are held weekly to discuss the product roadmap, upcoming features,
+and any blockers that need to be resolved or questions that need to be answered.
+It is the best path to discuss new ideas and to align on the product's direction.
+
+The meeting is led by the Product Manager and attended by key stakeholders and an engineering lead.
+
+### Refinement Meetings
+
+Refinement meetings are held weekly and are the handover point from the Product Team to the Engineering Team.
+The product manager presents problems, opportunities and priorities to the Engineering Team.
+Engineers ask questions and either pull the problem into the backlog or push it back to the product team for further refinement.
+
+The meeting is led by the product manager and attended by the engineering team.
+
+### Standups
+
+Standups are held daily and are the heartbeat of the Engineering Team.
+They are used to update the team on the progress of ongoing tasks and blockers.
+Standups are not for problem-solving but for identifying issues
+that need to be solved later during the day.
+
+Standups are led by the Engineering Team Lead and attended by the entire Engineering Team
+and, optionally, by product managers or designers.
