@@ -14,18 +14,18 @@ All work that is done in either product, design or engineering should be reflect
 
 ### OKR initiatives
 
-Strategic initiatives developed with a department and prioritized in close coordination with an objective owner. Those initiatives could be features and also research tasks, surveys, content work and more.
+Strategic initiatives are developed with a department and prioritized in close coordination with an objective owner. Those initiatives could be features and also research tasks, surveys, content work and more.
 
 They are prioritized over anything else to ensure the success of our OKRs.
 
 OKR initiatives should be in line with our long-term product vision.
 
-OKR initiatives are usually tracking in a separate lane on the Kanban board.
+OKR initiatives are usually tracked in a separate lane on the Kanban board.
 
 ### New feature tickets
 
 New features are the result of analysis or research based user demand.
-The product and design team owns the requirements engineering and conception of new features.
+The product and design teams own the requirements engineering and conception of new features.
 They are responsible for creating tickets that are ready to be pulled into the backlog.
 
 ### Growth opportunity
@@ -39,7 +39,7 @@ Growth opportunities should align with our long term product vision.
 
 Depending on the complexity those opportunities might be developed in small increments prioritizing value delivery.
 
-Growth opportunity are owned by a stakeholder and prioritized via the stakeholder meeting.
+Growth opportunities are owned by a stakeholder and prioritized via the stakeholder meeting.
 The product team is responsible to ensure that the ticket is ready to be pulled into the backlog.
 
 ### Operational hiccups
@@ -58,7 +58,7 @@ Bugs must have some kind of urgency. They are not prioritized by product, but tr
 
 A bug ticket should have an average resolution rate of less than a week and no more than two weeks.
 
-Bugs may be closed or converted into a technical dept ticket, if there is no longer a high urgency and no impact on the stability of the platform.
+Bugs may be closed or converted into a technical debt ticket, if there is no longer a high urgency and no impact on the stability of the platform.
 Updates on bug tickets, especially closure without resolution, need to be communicated with product proactively.
 
 ### Tech debt
@@ -70,7 +70,7 @@ Work on technical debt must always be proactively communicated with the product 
 ### Platform announcement Slack channel
 
 Product, Design, Engineering, and Content team members post every change to go live on the platform into the Slack channel [#platform-announcements](https://voiio.slack.com/archives/C02BXK6R16V).
-This channel serves as a changelog for all employees and should include ever change the platform's experience, e.g.
+This channel serves as a changelog for all employees and should include every change to the platform's experience, e.g.
 
 * new features,
 * bug fixes,
