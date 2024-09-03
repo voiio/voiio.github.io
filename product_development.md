@@ -12,18 +12,6 @@ Engineers are responsible for maintaining cards on the Kanban board once they ha
 
 All work that is done in either product, design or engineering should be reflected on the board. Stakeholders may have tickets on the board too.
 
-### New feature tickets
-
-The requirements engineering and conception of new features is owned by the product and design team.
-
-### Growth opportunity
-
-Anything that can help a department (not only product related) to improve their performance and the performance of our business.
-
-Growth opportunities should align with our long term product vision.
-
-Depending on the complexity those opportunities might be developed in small increments prioritizing value delivery.
-
 ### OKR initiatives
 
 Strategic initiatives developed with a department and prioritized in close coordination with an objective owner. Those initiatives could be features and also research tasks, surveys, content work and more.
@@ -32,9 +20,35 @@ They are prioritized over anything else to ensure the success of our OKRs.
 
 OKR initiatives should be in line with our long-term product vision.
 
+OKR initiatives are usually tracking in a separate lane on the Kanban board.
+
+### New feature tickets
+
+New features are the result of analysis or research based user demand.
+The product and design team owns the requirements engineering and conception of new features.
+They are responsible for creating tickets that are ready to be pulled into the backlog.
+
+### Growth opportunity
+
+Anything that can help a department (not only product related) to improve their performance and the performance of our business.
+They should be accompanied by metrics, their current state, and the projected state after the implementation of the growth opportunity.
+
+E.g: Feature A will boost KPI B from 10% to 20% and will increase revenue by 10%.
+
+Growth opportunities should align with our long term product vision.
+
+Depending on the complexity those opportunities might be developed in small increments prioritizing value delivery.
+
+Growth opportunity are owned by a stakeholder and prioritized via the stakeholder meeting.
+The product team is responsible to ensure that the ticket is ready to be pulled into the backlog.
+
 ### Operational hiccups
 
-Operational hiccups are issues that disturb a stakeholders operation or hinder their ability to exercise their responsibilities. They usually require some kind of technical support or facilitation and should have some level of urgency similar to bugs but are outside of the engineering responsibilities.
+Operational hiccups are issues that disturb a stakeholders operation or hinder their ability to exercise their responsibilities.
+They usually require some kind of technical support or facilitation and should have some level of urgency similar to bugs.
+
+Operational hiccups are owned by a stakeholder and prioritized via the stakeholder meeting.
+The product team is responsible to ensure that the ticket is ready to be pulled into the backlog.
 
 ### Bugs
 
@@ -42,9 +56,10 @@ Bugs are owned by the engineering team as they affect the platform's stability.
 
 Bugs must have some kind of urgency. They are not prioritized by product, but triaged by engineering, based on what bug will kill our business first. Triage is handled by a designated senior engineer. Bugs are assigned to an engineer at all times but can be reassigned.
 
-A bug ticket should have an average resolution rate of less than a week.
+A bug ticket should have an average resolution rate of less than a week and no more than two weeks.
 
-Bugs may be closed or converted into a story, if there is no longer a high urgency and no impact on the stability of the platform. Updates on bug tickets, especially closure without resolution, need to be communicated with product proactively.
+Bugs may be closed or converted into a technical dept ticket, if there is no longer a high urgency and no impact on the stability of the platform.
+Updates on bug tickets, especially closure without resolution, need to be communicated with product proactively.
 
 ### Tech debt
 
@@ -54,16 +69,22 @@ Work on technical debt must always be proactively communicated with the product 
 
 ### Platform announcement Slack channel
 
-Product, Design, Engineering, and Content team members post every change to go live on the platform into the Slack channel [#platform-announcements](https://voiio.slack.com/archives/C02BXK6R16V). This channel serves as a changelog for all employees.
+Product, Design, Engineering, and Content team members post every change to go live on the platform into the Slack channel [#platform-announcements](https://voiio.slack.com/archives/C02BXK6R16V).
+This channel serves as a changelog for all employees and should include ever change the platform's experience, e.g.
+
+* new features,
+* bug fixes,
+* content updates,
+* etc.
 
 ## Meetings & Collaboration
 
 ### Agile principles
 
-* Make work visible
-* Meaningful & actionable conversations
-* Decisions are made, where the work is done
-* Regularly reflect on how we work together
+* Make work visible.
+* Meaningful & actionable conversations.
+* Don't ask for permission. Decisions are made, where the work is done.
+* Regularly reflect on how we work together.
 
 ### Stakeholder Meetings
 
@@ -73,24 +94,25 @@ The meeting is led by the Product Manager and attended by key stakeholders and a
 
 ### Refinement Meetings
 
-Refinement meetings are held weekly and are the handover point from the Product Team to the Engineering Team. The product manager presents problems, opportunities, and priorities to the Engineering Team. Engineers ask questions and either pull the issue into the backlog or push it back to the product team for further refinement.
+Refinement meetings are held weekly and are the handover point from the product team to the engineering team. The product manager presents problems, opportunities, and priorities to the engineering team. Engineers ask questions and either pull the issue into the backlog or push it back to the product team for further refinement.
 
 The meeting is led by the product manager and attended by the product and engineering team.
 
-### Standups
+### Dailies
 
-Standups are held daily and are the heartbeat of the team (Engineering, Content, Product). They are used to update the team on the progress of ongoing tasks and blockers. Standups are not for problem-solving, but for identifying issues that need to be solved later during the day.
+Dailies are held daily and are the heartbeat of the team (engineering, content, product). They are used to update the team on the progress of ongoing tasks and blockers. Standups are not for problem-solving, but for identifying issues that need to be solved later during the day.
 
-Standups are led by the respective Team Lead going through the Kanban board and attended by the entire team and, optionally, by people who have been closely working with the respective team.
+Dailies are led by the respective team lead going through the Kanban board and attended by the entire team and, optionally, by people who have been closely working with the respective team.
 
 ### Retrospectives
 
-Retrospectives are held every month with the Engineering, Product and Design Team. Stakeholders may join optionally or can be invited if they have been highly involved with a project.
+Retrospectives are held every month with the engineering, product and design team. Stakeholders may join optionally or can be invited if they have been highly involved with a project.
 
 ### Review
 
 We have a continuous development and deployment process and therefore no regular review meeting. However, reviews are an integral part of the development process. Engineers are responsible to include key stakeholders or product into the solution building and review process.
 
-We strictly prioritize closing open work over everything else. Therefore, any party that has been requested to review a feature is expected to make time within a business day.
+We strictly prioritize closing open work over everything else.
+Therefore, reviewing and supporting ongoing projects is expected to be done within a business day.
 
 Client-facing features may require a scheduled deployment coordinated with our clients by CSM.
