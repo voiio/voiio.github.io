@@ -86,13 +86,13 @@ This channel serves as a changelog for all employees and should include every ch
 * Don't ask for permission. Decisions are made, where the work is done.
 * Regularly reflect on how we work together.
 
-### Stakeholder Meetings
+### Stakeholder meetings
 
 Stakeholder meetings are held weekly to discuss the product roadmap, upcoming features, and any blockers that need to be resolved or questions that need to be answered. It is the best path to discuss new ideas and to align on the product's direction. The product manager will relate work to the OKR progress and stakeholders will come prepared with issues/ideas and data, adding their topics to this document: [Stakeholder Meeting Platform](https://docs.google.com/document/d/1uhX68whx9T56unUlEUdyjUdq_dOJpHwO7Ycv892hqA8/edit)
 
 The meeting is led by the Product Manager and attended by key stakeholders and an engineering lead.
 
-### Refinement Meetings
+### Refinement meetings
 
 Refinement meetings are held weekly and are the handover point from the product team to the engineering team. The product manager presents problems, opportunities, and priorities to the engineering team. Engineers ask questions and either pull the issue into the backlog or push it back to the product team for further refinement.
 
