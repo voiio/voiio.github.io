@@ -12,6 +12,8 @@ Engineers are responsible for maintaining cards on the Kanban board once they ha
 
 All work that is done in either product, design or engineering should be reflected on the board. Stakeholders may have tickets on the board too.
 
+Priorities or urgencies are sorted top to bottom.
+
 ### OKR initiatives
 
 Strategic initiatives are developed with a department and prioritized in close coordination with an objective owner. Those initiatives could be features and also research tasks, surveys, content work and more.
