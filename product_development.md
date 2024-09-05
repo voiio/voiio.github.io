@@ -118,3 +118,8 @@ We strictly prioritize closing open work over everything else.
 Therefore, reviewing and supporting ongoing projects is expected to be done within a business day.
 
 Client-facing features may require a scheduled deployment coordinated with our clients by CSM.
+
+
+### Development Kick-Off
+
+To prevent ticket ping pong, a kick-off is an optional short meeting, that can be scheduled by an engineer when they pick up new work. Its discussion should be reflected in the ticket. We aim for great tickets, but sometimes we miss.
