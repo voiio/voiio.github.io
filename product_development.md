@@ -26,7 +26,7 @@ OKR initiatives are usually tracked in a separate lane on the Kanban board.
 
 ### New feature tickets
 
-New features are the result of analysis or research based user demand.
+New features are the result of analysis or research, based on user demand.
 The product and design teams own the requirements engineering and conception of new features.
 They are responsible for creating tickets that are ready to be pulled into the backlog.
 
