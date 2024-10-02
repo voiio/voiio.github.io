@@ -81,6 +81,10 @@ We want to be the clutch player that everyone wants on their team.
 We don't keep bullshit around. If it doesn't add value, it needs to go.
 Embrace your inner Marie Kondo.
 
+## Meeings & Assets
+
+You can find how we work and what methods we use [right here](product_development.md).
+
 ## Team
 
 ### Who does what?
