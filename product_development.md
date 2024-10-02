@@ -14,7 +14,13 @@ All work that is done in either product, design or engineering should be reflect
 
 Priorities or urgencies are sorted top to bottom.
 
-### OKR initiatives
+### New feature tickets
+
+New features are the result of analysis or research, based on user demand.
+The product and design teams own the requirements engineering and conception of new features.
+They are responsible for creating tickets that are ready to be pulled into the backlog.
+
+#### OKR initiatives
 
 Strategic initiatives are developed with a department and prioritized in close coordination with an objective owner. Those initiatives could be features and also research tasks, surveys, content work and more.
 
@@ -24,13 +30,7 @@ OKR initiatives should be in line with our long-term product vision.
 
 OKR initiatives are usually tracked in a separate lane on the Kanban board.
 
-### New feature tickets
-
-New features are the result of analysis or research, based on user demand.
-The product and design teams own the requirements engineering and conception of new features.
-They are responsible for creating tickets that are ready to be pulled into the backlog.
-
-### Growth opportunity
+#### Growth opportunity
 
 Anything that can help a department (not only product related) to improve their performance and the performance of our business.
 They should be accompanied by metrics, their current state, and the projected state after the implementation of the growth opportunity.
@@ -44,7 +44,7 @@ Depending on the complexity those opportunities might be developed in small incr
 Growth opportunities are owned by a stakeholder and prioritized via the stakeholder meeting.
 The product team is responsible to ensure that the ticket is ready to be pulled into the backlog.
 
-### Operational hiccups
+#### Operational hiccups
 
 Operational hiccups are issues that disturb a stakeholders operation or hinder their ability to exercise their responsibilities.
 They usually require some kind of technical support or facilitation and should have some level of urgency similar to bugs.
