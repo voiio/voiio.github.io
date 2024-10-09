@@ -21,6 +21,7 @@ Besides transparency, this might come in handy in case of vacations or sickness.
 | tech meetups organization            |            |                   |              | x        |              |
 | [warehouse][warehouse]               |            |                   |              | x        |              |
 | [SSL certificates][SSL certificates] |            |                   |              | x        |              |
+| technical debt                       |            |                   |              | x        |              |
 | [Sentry][Sentry]                     |            |                   |              |          | x            |
 | first-level tech support             |            |                   |              |          | x            |
 | python dependencies                  |            |                   |              |          | x            |
