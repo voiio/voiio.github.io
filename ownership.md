@@ -15,7 +15,6 @@ Besides transparency, this might come in handy in case of vacations or sickness.
 | Accounts [Miro][Miro]                |            | x                 |              |          |              |
 | Designs via [Figma][Figma]           |            | x                 |              |          |              |
 | Google Tag Manager                   |            |                   | x            |          |              |
-| [Looker Studio]                      |            |                   | x            |          |              |
 | tech interviews                      |            |                   | x            |          |              |
 | Algolia                              |            |                   | x            |          |              |
 | tech meetups organization            |            |                   |              | x        |              |
