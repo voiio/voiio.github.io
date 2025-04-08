@@ -1,0 +1,3 @@
+[submodule "submodules/github"]
+	path = submodules/github
+	url = https://github.com/voiio/.github
