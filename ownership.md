@@ -17,6 +17,7 @@ Besides transparency, this might come in handy in case of vacations or sickness.
 | Google Tag Manager                   |            |                   | x            |          |              |
 | tech interviews                      |            |                   | x            |          |              |
 | Algolia                              |            |                   | x            |          |              |
+| internal bug triage                               |                   | x            |          |              |
 | tech meetups organization            |            |                   |              | x        |              |
 | [warehouse][warehouse]               |            |                   |              | x        |              |
 | [SSL certificates][SSL certificates] |            |                   |              | x        |              |
