@@ -5,7 +5,6 @@ Besides transparency, this might come in handy in case of vacations or sickness.
 
 |                                      | @codingjoe | @SebastianKapunkt | @mostafa-anm | @amureki | @herrbenesch |
 |--------------------------------------|------------|-------------------|--------------|----------|--------------|
-| product news (changelog)             | x          |                   |              |          |              |
 | [voiio.de][voiio.de]                 |            | x                 |              |          |              |
 | javascript dependencies              |            | x                 |              |          |              |
 | [style guide](styleguide.md)         |            | x                 |              |          |              |
